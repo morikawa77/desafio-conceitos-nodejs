@@ -10,9 +10,9 @@
 
 ### 🚀 About the challenge
 
-In this challenge, you must create a application to practice what you have learned in Node.js!
+In this challenge, an application was created to practice what I learned in Node.js.
 
-Thils will be an application to storage repositories of your portfolio, that will allow you to list, update, and delete repositories, and besides that, the repositories can also receive likes.
+The application has the purpose of storing repositories, which will allow you to list, update and delete repositories, and in addition, the repositories can also receive likes.
 
 ### ➡️ Application Routes
 
@@ -26,7 +26,7 @@ Thils will be an application to storage repositories of your portfolio, that wil
 
 - **`POST /repositories/:id/like`**: The route must increase the number of likes from the specific repository chosen through the `id` param present in the route parameters, at each call of this route, the number of likes must be increased by 1;
 
-<strong>Insomnia App was used to test endpoints</strong>
+<strong>Insomnia App was used to test endpoints</strong><br>
 <img alt="Insomnia" title="Insomnia" src=".github/insomnia-preview.png" />
 
 <a target="_blank" href=".github/desafio-conceitos-nodejs.json">Download Insomnia Endpoints JSON</a>
